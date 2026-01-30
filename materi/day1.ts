@@ -154,3 +154,6 @@ console.log(Math.floor(Math.random() * (max - min + 1)) + min);
 
 //========= AKHIR MATERI DAY-1 ===========
 
+console.log('hello world');
+
+
