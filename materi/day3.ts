@@ -136,7 +136,7 @@ console.log(str === "javascript" ? "javascript" : str === "typescript" ? "typesc
     }
 */
 
-//looping 1ox
+//looping 10x
 for (let i = 0; i < 10; i++){ //-> akan terus diulang sampai tidak memenuhi kondisi
     console.log("hello");
 }
